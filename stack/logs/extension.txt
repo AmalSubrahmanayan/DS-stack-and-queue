@@ -1,0 +1,214 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.52.1
+Flutter extension: 3.52.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.73.0
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Sat Nov 05 2022 [09:41:01 GMT+0530 (India Standard Time)] Log file started
+[9:41:01 AM] [General] [Info] Searching for SDKs...
+[9:41:01 AM] [General] [Info] Environment PATH:
+[9:41:01 AM] [General] [Info]     C:\Windows\system32
+[9:41:01 AM] [General] [Info]     C:\Windows
+[9:41:01 AM] [General] [Info]     C:\Windows\System32\Wbem
+[9:41:01 AM] [General] [Info]     C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]     C:\Windows\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:41:01 AM] [General] [Info]     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:41:01 AM] [General] [Info]     C:\WINDOWS\system32
+[9:41:01 AM] [General] [Info]     C:\WINDOWS
+[9:41:01 AM] [General] [Info]     C:\WINDOWS\System32\Wbem
+[9:41:01 AM] [General] [Info]     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]     C:\WINDOWS\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]     C:\Program Files\dotnet\
+[9:41:01 AM] [General] [Info]     C:\Program Files\Git\cmd
+[9:41:01 AM] [General] [Info]     C:\Program Files\nodejs\
+[9:41:01 AM] [General] [Info]     C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:41:01 AM] [General] [Info]     C:\Flutter\flutter\bin
+[9:41:01 AM] [General] [Info]     C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:41:01 AM] [General] [Info]     C:\Users\amals\AppData\Roaming\npm
+[9:41:01 AM] [General] [Info] Took 42ms to search for projects (5 levels)
+[9:41:01 AM] [General] [Info] Took 2ms to filter out excluded projects (0 exclusion rules)
+[9:41:01 AM] [General] [Info] Searching for flutter.bat
+[9:41:01 AM] [General] [Info]     Looking for flutter.bat in:
+[9:41:01 AM] [General] [Info]         C:\Users\amals\flutter-sdk
+[9:41:01 AM] [General] [Info]         C:\Users\amals\flutter-sdk\bin
+[9:41:01 AM] [General] [Info]         /google/flutter
+[9:41:01 AM] [General] [Info]         \google\flutter\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\system32
+[9:41:01 AM] [General] [Info]         C:\Windows\system32\bin
+[9:41:01 AM] [General] [Info]         C:\Windows
+[9:41:01 AM] [General] [Info]         C:\Windows\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\Wbem
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\Wbem\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:41:01 AM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:41:01 AM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\system32
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\system32\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\dotnet\
+[9:41:01 AM] [General] [Info]         C:\Program Files\dotnet\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\Git\cmd
+[9:41:01 AM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\nodejs\
+[9:41:01 AM] [General] [Info]         C:\Program Files\nodejs\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps\bin
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm\bin
+[9:41:01 AM] [General] [Info]     Found at:
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin
+[9:41:01 AM] [General] [Info]     Candidate paths to be post-filtered:
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter
+[9:41:01 AM] [General] [Info]     Found at C:\Flutter\flutter
+[9:41:01 AM] [General] [Info]     Returning SDK path C:\Flutter\flutter for flutter.bat
+[9:41:01 AM] [General] [Info] Searching for dart.exe
+[9:41:01 AM] [General] [Info]     Looking for dart.exe in:
+[9:41:01 AM] [General] [Info]         C:\Windows\system32
+[9:41:01 AM] [General] [Info]         C:\Windows\system32\bin
+[9:41:01 AM] [General] [Info]         C:\Windows
+[9:41:01 AM] [General] [Info]         C:\Windows\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\Wbem
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\Wbem\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\WindowsPowerShell\v1.0\bin
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]         C:\Windows\System32\OpenSSH\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[9:41:01 AM] [General] [Info]         C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[9:41:01 AM] [General] [Info]         C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\system32
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\system32\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[9:41:01 AM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\dotnet\
+[9:41:01 AM] [General] [Info]         C:\Program Files\dotnet\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\Git\cmd
+[9:41:01 AM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[9:41:01 AM] [General] [Info]         C:\Program Files\nodejs\
+[9:41:01 AM] [General] [Info]         C:\Program Files\nodejs\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Microsoft\WindowsApps\bin
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Local\Programs\Microsoft VS Code\bin
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm
+[9:41:01 AM] [General] [Info]         C:\Users\amals\AppData\Roaming\npm\bin
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk\bin
+[9:41:01 AM] [General] [Info]     Found at:
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk\bin
+[9:41:01 AM] [General] [Info]     Candidate paths to be post-filtered:
+[9:41:01 AM] [General] [Info]         C:\Flutter\flutter\bin\cache\dart-sdk
+[9:41:01 AM] [General] [Info]     Found at C:\Flutter\flutter\bin\cache\dart-sdk
+[9:41:01 AM] [General] [Info]     Returning SDK path C:\Flutter\flutter\bin\cache\dart-sdk for dart.exe
+[9:41:01 AM] [General] [Info] Experiment random number is 66 for experiment 'sdkDaps'. Experiment is enabled for <= 10
+[9:41:01 AM] [General] [Info] Experiment 'sdkDaps' does not apply and will not be activated
+[9:41:01 AM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.52.1
+Flutter extension: 3.52.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.73.0
+Platform: win
+
+Workspace type: Dart
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\Flutter\flutter\bin\cache\dart-sdk
+    Ver: 2.18.4
+Flutter SDK:
+    Loc: C:\Flutter\flutter
+    Ver: 3.3.7
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[9:41:01 AM] [General] [Info] Returning cached results for project search
+[9:41:01 AM] [General] [Info] Extension:Startup timing: 76ms
+[9:41:01 AM] [General] [Info] Found 0 folders requiring "pub get":
+[9:41:01 AM] [General] [Info] Caching Pub package names from pub.dev...
+[9:41:02 AM] [General] [Info] Analyzer:Startup timing: 849ms
+[9:41:04 AM] [General] [Info] Analyzer:FirstAnalysis timing: 1207ms
+[9:41:19 AM] [General] [Info] Starting debug session...
+[9:41:19 AM] [General] [Info]     workspace: C:\Users\amals\OneDrive\Desktop\ds code\stack
+[9:41:19 AM] [General] [Info] Setting cwd based on likely entry point: C:\Users\amals\OneDrive\Desktop\ds code\stack
+[9:41:19 AM] [General] [Info] Using open file as entry point: C:\Users\amals\OneDrive\Desktop\ds code\stack\bin\stack.dart
+[9:41:19 AM] [General] [Info] Using workspace as cwd: C:\Users\amals\OneDrive\Desktop\ds code\stack
+[9:41:19 AM] [General] [Info] Detected launch project as Dart
+[9:41:19 AM] [General] [Info] Using Dart debug adapter for this session
+[9:41:19 AM] [General] [Info] Checking for errors before launching
+[9:41:19 AM] [General] [Info] Debug session starting...
+    {
+        "noDebug": true,
+        "dartCodeDebugSessionID": "session-4570b",
+        "type": "dart",
+        "request": "launch",
+        "program": "C:\\Users\\amals\\OneDrive\\Desktop\\ds code\\stack\\bin\\stack.dart",
+        "cwd": "C:\\Users\\amals\\OneDrive\\Desktop\\ds code\\stack",
+        "name": "Dart",
+        "toolEnv": {
+            "FLUTTER_HOST": "VSCode",
+            "PUB_ENVIRONMENT": "vscode.dart-code"
+        },
+        "sendLogsToClient": true,
+        "sendCustomProgressEvents": true,
+        "additionalProjectPaths": [
+            "C:\\Users\\amals\\OneDrive\\Desktop\\ds code\\stack"
+        ],
+        "args": [],
+        "vmAdditionalArgs": [],
+        "toolArgs": [],
+        "vmServicePort": 0,
+        "dartSdkPath": "C:\\Flutter\\flutter\\bin\\cache\\dart-sdk",
+        "vmServiceLogFile": "C:\\Users\\amals\\OneDrive\\Desktop\\ds code\\stack\\logs\\observatory.txt",
+        "maxLogLineLength": 2000,
+        "dartTestLogFile": "C:\\Users\\amals\\OneDrive\\Desktop\\ds code\\stack\\logs\\dart_test.txt",
+        "debugSdkLibraries": false,
+        "debugExternalPackageLibraries": false,
+        "showDartDeveloperLogs": true,
+        "evaluateGettersInDebugViews": true,
+        "evaluateToStringInDebugViews": true,
+        "daemonPort": false,
+        "console": "debugConsole",
+        "debuggerType": 0
+    }
+[9:41:19 AM] [General] [Info] Using dart debugger for Dart
+[9:41:19 AM] [General] [Info] SDK DAP setting is false, set by sdkDaps experiment
+[9:41:19 AM] [General] [Info] Running debugger via node with c:\Users\amals\.vscode\extensions\dart-code.dart-code-3.52.1\out\dist\debug.js    dart
+[9:41:19 AM] [General] [Info] Did not find session 80231c34-f18d-430c-9fe2-911d2873f210 to handle dart.progressStart. There were 0 sessions:
+[9:41:19 AM] [General] [Info] Event will be queued and processed when the session start event fires
+[9:41:19 AM] [General] [Info] Processing delayed event dart.progressStart for session 80231c34-f18d-430c-9fe2-911d2873f210
+[9:41:20 AM] [General] [Info] Debugger:SessionDuration timing: 886ms (Dart)
+Sat Nov 05 2022 [12:44:05 GMT+0530 (India Standard Time)] Log file ended
